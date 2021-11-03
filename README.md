@@ -1,9 +1,7 @@
 - 👋 Hi, I’m @KekOnTheWorld
-- 👀 I’m interested in everything
-- 🌱 I’m currently learning c++ and reactjs
-- 📫 How to reach me kek@kotw.dev
+- 📫 Email: kek@kotw.dev
 
-- Active Project: 'Kekchat' - A chat app using reactjs and socket.io.
+- Active Project: '[MeatloafC](https://github.com/KekOnTheWorld/MeatloafC)' - Rewriting [Meatloaf](https://github.com/Rickaym/Meatloaf) in [C99](https://en.wikipedia.org/wiki/C99)
 
 <!---
 KekOnTheWorld/KekOnTheWorld is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
