@@ -4,12 +4,14 @@
 
 ### Experience
 - C
+- C++
+- C#
 - Java
+- HTML, CSS
 - JavaScript
 - TypeScript
-- C#
-- HTML, CSS
-- C++
+- Python
+- SQL
 
 ### Links:
 - [Website](https://kotw.dev)
