@@ -2,6 +2,9 @@
 
 👋 Hi im KekOnTheWorld a german developer!
 
+![Kecky's GitHub stats](https://github-readme-stats.vercel.app/api?username=KekOnTheWorld&hide=contribs,prs)
+
+
 ### Experience
 - C
 - C++
