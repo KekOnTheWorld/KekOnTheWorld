@@ -37,11 +37,6 @@
 
 <br>
 
-### Goals before 2022:
-- [LoafStandarts](https://github.com/KekOnTheWorld/LoafStandarts)
-- [Loaf](https://github.com/KekOnTheWorld/Loaf)
-- [grista](https://github.com/KekOnTheWorld/grista)
-
 <!---
 KekOnTheWorld/KekOnTheWorld is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
