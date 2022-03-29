@@ -36,10 +36,11 @@
 <br>
 
 ### Stats
+
 ![Kecky's GitHub stats](https://github-readme-stats.vercel.app/api?username=KekOnTheWorld&theme=midnight-purple)
 
 ![Most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=KekOnTheWorld&theme=midnight-purple)
-
+  
 <br>
 
 <!---
