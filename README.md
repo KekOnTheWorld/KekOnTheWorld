@@ -44,7 +44,7 @@
 <br>
 
 ### Contact
-Write me a mail at <a href="mailto:kekontheworld@gmail.com">kekontheworld@gmail.com</a>!
+Write me an email at <a href="mailto:kekontheworld@gmail.com">kekontheworld@gmail.com</a>!
 
 <!---
 KekOnTheWorld/KekOnTheWorld is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
